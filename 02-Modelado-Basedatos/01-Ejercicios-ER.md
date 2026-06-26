@@ -21,6 +21,7 @@ En un hospital se registra informacion de sus pacientes
 
 ## Reglas del Negocio 
 ---
+![Diagrama ER](../../img/Diagrama1.png)
 
 ## 2. Ejercicio 2
 
